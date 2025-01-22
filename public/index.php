@@ -7,7 +7,7 @@
 include "../datas/datas.php";
 
 // vérification si on a bien importer les données
-//var_dump($datas);
+var_dump($datas);
 
 // Appel du router
 include "../controller/router.php";
